@@ -2,6 +2,9 @@
 
 RecipeFinder is a user-friendly web app for discovering, adding, and managing recipes. Users can browse recipes by category, view detailed instructions, and watch recipe videos for step-by-step guidance. Each recipe includes a clear procedure section, making it easy to follow along and cook new dishes. Admins can add new recipes with images, ingredients, process, and optional video links, ensuring a rich and interactive cooking experience for everyone.
 
+**Live** :- https://recipe-finder-two-murex.vercel.app/HomePage/RecipeFinder/home.html
+
+
 ---
 
 ## 🏠 Home Page
